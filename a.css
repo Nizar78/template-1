@@ -1,0 +1,316 @@
+body{
+
+
+
+  padding: 0;
+  margin: 0;
+  font-family: arial;
+  height: 2550px;
+  c
+
+
+}
+
+
+/*   Start Header */
+
+.header {
+
+   
+
+}
+
+.header .image img {
+
+
+  height: 680px;
+  width: 1832px;
+ 
+  
+
+
+ 
+
+}
+
+.header .feature {
+
+    
+  
+
+
+    background-color:#f05454;
+   
+}
+.header .feature  ul {
+
+    margin: 0;
+    padding: 23px;
+    padding-left: 1200px;
+   
+}
+.header .feature  ul li{
+
+    color : #fff;
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+    
+
+}
+.header .feature  ul li a{
+
+
+
+
+    color : #fff;
+    text-decoration: none;
+}
+
+
+
+.header .feature  ul li a:hover {
+    color:#ccc;
+  }
+  
+
+  .header .feature  ul li  a:active {
+    color: blue;
+  }
+
+  /*  end Header*/
+
+
+  .choose {
+
+   
+    margin: 0;
+
+    
+    
+
+
+  }
+.choose {
+
+
+    height: 400px;
+    padding-top: 90px;
+    padding-left: 100px;
+}
+    
+
+  .choose .about , .choose .creative   ,  .choose .best {
+
+    display: inline-block;
+    width: 33%;
+   
+    text-align: center;
+
+    
+   
+   
+  }
+ 
+  .choose .about h2, .choose .creative  h2  ,  .choose .best h2{  
+
+    margin: 0;
+    padding-bottom: 60px;
+    color:black;
+
+    font-size: 35px;
+    
+    
+    
+   
+  
+   
+
+
+  }
+  .choose .about p, .choose .creative  p  ,  .choose .best p{
+
+
+
+    width: 280px;
+    padding-left: 150px;
+    padding-top: 40px;
+
+    font-size: 18px;
+
+  }
+  .choose .about img, .choose .creative  img ,  .choose .best img {
+
+
+    
+
+    height: 100px;
+    width: 100px;
+    
+  }
+  .choose .about button, .choose .creative  button ,  .choose .best button{
+
+
+       background-color: #fff;
+       border: 1px solid black;
+       font-size: 30px;
+
+       padding-left: 20px;
+       padding-right: 20px;
+       padding-top: 5px;
+       padding-bottom: 5px;
+
+       margin-top: 40px;
+
+
+  }
+
+
+
+  hr {
+
+
+    width: 1600px;
+    margin-top: 150px;
+   
+  }
+
+
+  /* end choose */
+
+
+
+  /*  start Our service */
+
+
+.ourService {
+
+
+
+height:600px;
+margin-top: 85px;
+padding-left: 250px;
+background-color:#aacfcf;
+
+}
+.ourService .one , .ourService  .two , .ourService  .three , .ourService  .four ,.ourService .five , .ourService .six {
+
+padding:50px
+     
+
+
+
+}
+.ourService .one img , .ourService  .two img , .ourService  .three img , .ourService  .four img , .ourService .five img , .ourService .six img {
+
+height: 70px;
+
+width: 70px;
+padding-right: 50px;
+
+
+
+}
+
+.ourService .one p, .ourService .two p, .ourService .three p , .ourService .four p ,.ourService .five p , .ourService .six p{
+
+width: 350px;
+display: inline-block;
+text-align: center;
+
+
+}
+
+.left   {
+
+
+    display: inline-block;
+    
+
+}
+
+.right {
+
+    display: inline-block;
+    padding-left: 200px;
+
+    
+
+}
+
+
+   /*  end Our service */
+
+
+   /*   start form*/
+
+
+.form {
+
+
+background-color: #212121;
+height: 500px;
+color: #fff;
+padding-left: 550px;
+padding-top:100px;
+
+
+
+}
+
+.form label{
+
+font-size: 25px;
+margin: 20px;
+
+}
+
+
+
+.form input{
+
+width: 320px;
+height: 45px;
+margin: 20px;
+
+
+
+}
+
+.form button {
+
+
+
+
+    background-color: #fff;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-left: 220px;
+    margin-top: 70px;
+}
+
+
+.copyright {
+ background-color:#ccc;
+ text-align: center;
+  margin:0;
+}
+
+
+.copyright  p{
+
+
+
+    margin :0;
+    height: 50px;
+    font-size :30px;
+    background-color: #101010;
+    color :#fff;
+    padding:10px
+}
+ 
+      /*   end form*/
